@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sample Application</string>
+
+    <string name="unknown_error">Unknown Error</string>
+    <string name="network_error">Network Error</string>
+
+    <string name="login_wrong_username_or_password">Wrong username or password!</string>
+</resources>
